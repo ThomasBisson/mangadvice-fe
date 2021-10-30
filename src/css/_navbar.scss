@@ -1,0 +1,33 @@
+.navbar-brand {
+  padding-top: 0;
+  padding-bottom: 0;
+  height: 60px;
+  width: 240px;
+}
+
+.navbar-mangadvice-logo {
+  height: 100%;
+  width: 100%;
+}
+
+.navbar-light .navbar-nav .show > .nav-link,
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(0, 0, 0, 0.55);
+  font-size: 1.3rem;
+}
+
+.navbar-light .navbar-nav .show > .nav-link,
+.navbar-light .navbar-nav .nav-link:hover {
+  color: rgba(228, 178, 15, 1);
+}
+
+.navbar-light .navbar-nav .show > .nav-link,
+.navbar-light .navbar-nav .nav-link.active {
+  color: rgba(15, 228, 129, 1);
+  font-size: 1.4rem;
+}
+
+.user-logo img {
+  height: 50px;
+  width: 50px;
+}
